@@ -1,0 +1,24 @@
+h1{
+    background-color: rgba(179, 88, 3, 0.7);
+}
+
+body, html {
+    height: 100%;
+  }
+  .bg {
+    /* The image used */
+    background-image: url("https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1556&q=80");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .btnedit{
+      color: lightsalmon;
+      cursor: pointer;
+  }
