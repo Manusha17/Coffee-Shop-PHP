@@ -1,6 +1,9 @@
 <?php
 
 require_once("../PHPTestCrud/php/component.php");
+require_once("../PHPTestCrud/php/db.php");
+
+Createdb();
 
 ?>
 
